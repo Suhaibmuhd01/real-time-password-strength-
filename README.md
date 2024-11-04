@@ -14,4 +14,4 @@ This repository contains code for a simple password strength meter implemented i
 1. Clone the repository:
 
 ```bash
-git clone []
+git clone https://github.com/Suhaibmuhd01/real-time-password-strength-.git
